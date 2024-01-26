@@ -20,7 +20,7 @@ This portfolio website serves as a central hub to display my work, skills, and a
 
 ## Usage
 
-To view the website, visit [My Portfolio Website](https://your-portfolio.vercel.app](https://portfolio-seven-smoky-49.vercel.app/)).
+To view the website, visit [My Portfolio Website](https://portfolio-seven-smoky-49.vercel.app/).
 
 ## Contributing
 
