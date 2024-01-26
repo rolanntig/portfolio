@@ -1,6 +1,7 @@
 import Home from './components/Home';
 import Project from './components/Projects';
 import Contact from './components/Contact';
+import Analytics from '@vercel/analytics'
 
 
 function App() {
@@ -9,6 +10,7 @@ function App() {
       <Home />
       <Project />
       <Contact />
+      <Analytics />
     </div>
   );
 }
