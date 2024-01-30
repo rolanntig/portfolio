@@ -4,7 +4,7 @@ const ProjectInfo = (props) => {
   return (
     <div className="">
       <div className="flex items-center">
-        <img src={props.image} alt="image" className=" w-80 h-56 rounded mx-4" />
+        <img src={props.image} alt="imae" className=" w-80 h-56 rounded mx-4" />
         <div className='flex flex-col justify-center'>
           <h1 className="text-3xl text-center">{props.title}</h1>
           <h4 className='p-2 text-center w-48 font-bold'>{props.desc}</h4>
